@@ -1,0 +1,12 @@
+
+// Solution
+fn main() {
+    let x = 5;
+    let y = &x;
+
+    // Dereference y to get the value
+    // just like the pointers
+    assert_eq!(5, *y); 
+
+    println!("Success!")
+}
