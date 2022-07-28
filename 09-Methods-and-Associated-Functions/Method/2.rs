@@ -1,4 +1,4 @@
-// My Solution
+// Solution
 #[derive(Debug)]
 struct TrafficLight {
     color: String,
